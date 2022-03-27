@@ -11,24 +11,23 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
-  <code><img title="Selenium" height="25" src="images/cSharp.svg"></code>
-<code><img title="Appium" height="25" src="images/cSharp.svg"></code>
-<code><img title="WebDriverIo" height="25" src="images/cSharp.svg"></code>
-<code><img title="Jmeter" height="25" src="images/cSharp.svg"></code>
-<code><img title="Spring Boot" height="25" src="images/cSharp.svg"></code>
-<code><img title="Cucumber" height="25" src="images/cSharp.svg"></code>
-<code><img title="TestNG" height="25" src="images/cSharp.svg"></code>
-<code><img title="Maven" height="25" src="images/cSharp.svg"></code>
-<code><img title="Apache Spark" height="25" src="images/cSharp.svg"></code>
-<code><img title="Junit" height="25" src="images/cSharp.svg"></code>
-<code><img title="Robot Framework" height="25" src="images/cSharp.svg"></code>
-<code><img title="Oracle" height="25" src="images/cSharp.svg"></code>
-<code><img title="Rest Assured" height="25" src="images/cSharp.svg"></code>
+  <code><img title="Selenium" height="25" src="images/selenium-logo.png"></code>
+<code><img title="Appium" height="25" src="images/appium-logo.png"></code>
+<code><img title="WebDriverIo" height="25" src="images/webdriverio.png"></code>
+<code><img title="Jmeter" height="25" src="images/jmeter.png"></code>
+<code><img title="Spring Boot" height="25" src="images/spring-boot-logo.png"></code>
+<code><img title="Cucumber" height="25" src="images/cucumberio.png"></code>
+<code><img title="TestNG" height="25" src="images/testng.png"></code>
+<code><img title="Maven" height="25" src="images/maven.png"></code>
+<code><img title="Apache Spark" height="25" src="images/spark.png"></code>
+<code><img title="Junit" height="25" src="images/junit.png"></code>
+<code><img title="Robot Framework" height="25" src="images/Robot-framework.png"></code>
+<code><img title="Oracle" height="25" src="images/oracle.png"></code>
+<code><img title="Rest Assured" height="25" src="images/rest-assured.png"></code>
   <code><img title="C#" height="25" src="images/cSharp.svg"></code>
   <code><img title="Python" height="25" src="images/python-original.svg"></code>
   <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
@@ -48,8 +47,6 @@
 </p>
 <hr>
 
-
-
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
 
 > Tools, languages, and other things that I like to work with.
@@ -58,63 +55,38 @@
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/csharp-original.svg" width="48" height="48" alt="C#" />
-      </a>
-      <br>C#&nbsp;(Core)
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
+        <img src="./images/python-original.svg" width="48" height="48" alt="Python" />
       </a>
       <br>Python
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
-      </a>
-      <br>Go
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
-      </a>
-      <br>Jsonnet
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+        <img src="./images/typescript.png" width="48" height="48" alt="TypeScript" />
       </a>
       <br>TypeScript
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+        <img src="./images/javascript.svg" width="48" height="48" alt="JavaScript" />
       </a>
       <br>JavaScript
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="./img/react-original.svg" width="48" height="48" alt="React" />
+        <img src="./images/react-original.svg" width="48" height="48" alt="React" />
       </a>
       <br>React
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
+        <img src="./images/bootstrap.png" width="48" height="48" alt="Bootstrap" />
       </a>
       <br>Bootstrap
     </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/sass-original.svg" width="48" height="48" alt="Sass" />
-      </a>
-      <br>Sass
-    </td>
-  </tr>
   <tr>
     <td align="center" width="96"> 
       <a href="#macropower-tech" >
-        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
+        <img src="./images/docker.png" width="48" height="48" alt="Docker" />
       </a>
       <br>Docker
     </td>
@@ -124,18 +96,6 @@
       </a>
       <br>Kubernetes
     </td>
-    <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
-      </a>
-      <br>Debian
-    </td>
-    <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="./img/redhat-original.svg" width="48" height="48" alt="RHEL" />
-      </a>
-      <br>RHEL
-    </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_128.svg" width="48" height="48" alt="Powershell" />
@@ -144,28 +104,15 @@
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="./img/mysql-original.svg" width="48" height="48" alt="MySQL" />
+        <img src="./images/mysql.svg" width="48" height="48" alt="MySQL" />
       </a>
       <br>MySQL
     </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
+        <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./images/cSharp.svg" width="48" height="48" alt="C#" />
       </a>
-      <br>Grafana
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://github.com/cncf/artwork/blob/master/projects/prometheus/icon/color/prometheus-icon-color.svg" width="48" height="48" alt="Prometheus" />
-      </a>
-      <br>Prometheus
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/thanos/icon/color/thanos-icon-color.svg" width="48" height="48" alt="Thanos" />
-      </a>
-      <br>Thanos
+      <br>C#&nbsp;(Core)
     </td>
   </tr>
 </table>
-
