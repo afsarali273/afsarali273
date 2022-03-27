@@ -59,6 +59,18 @@
       </a>
       <br>Python
     </td>
+          <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./images/selenium-logo.png" width="48" height="48" alt="Selenium" />
+      </a>
+      <br>Selenium
+    </td>
+        <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./images/java-original.svg" width="48" height="48" alt="Java" />
+      </a>
+      <br>Java
+    </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="./images/typescript.png" width="48" height="48" alt="TypeScript" />
@@ -86,7 +98,7 @@
   <tr>
     <td align="center" width="96"> 
       <a href="#macropower-tech" >
-        <img src="./images/docker.png" width="48" height="48" alt="Docker" />
+        <img src="./images/docker1.png" width="48" height="48" alt="Docker" />
       </a>
       <br>Docker
     </td>
@@ -113,6 +125,18 @@
         <img src="./images/cSharp.svg" width="48" height="48" alt="C#" />
       </a>
       <br>C#&nbsp;(Core)
+    </td>]
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./images/selenium-logo.png" width="48" height="48" alt="Selenium" />
+      </a>
+      <br>Selenium
+    </td>
+       <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./images/oracle.png" width="48" height="48" alt="Oracle" />
+      </a>
+      <br>Oracle
     </td>
   </tr>
 </table>
