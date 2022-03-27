@@ -54,86 +54,86 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="https://www.opensource-automation.com/about-me">
         <img src="./images/python-original.svg" width="48" height="48" alt="Python" />
       </a>
       <br>Python
     </td>
           <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="https://www.opensource-automation.com/about-me">
         <img src="./images/selenium-logo.png" width="48" height="48" alt="Selenium" />
       </a>
       <br>Selenium
     </td>
         <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="https://www.opensource-automation.com/about-me">
         <img src="./images/java-original.svg" width="48" height="48" alt="Java" />
       </a>
       <br>Java
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="https://www.opensource-automation.com/about-me">
         <img src="./images/typescript.png" width="48" height="48" alt="TypeScript" />
       </a>
       <br>TypeScript
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="https://www.opensource-automation.com/about-me">
         <img src="./images/javascript.svg" width="48" height="48" alt="JavaScript" />
       </a>
       <br>JavaScript
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
+      <a href="https://www.opensource-automation.com/about-me" >
         <img src="./images/react-original.svg" width="48" height="48" alt="React" />
       </a>
       <br>React
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="https://www.opensource-automation.com/about-me">
         <img src="./images/bootstrap.png" width="48" height="48" alt="Bootstrap" />
       </a>
       <br>Bootstrap
     </td>
   <tr>
     <td align="center" width="96"> 
-      <a href="#macropower-tech" >
+      <a href="https://www.opensource-automation.com/about-me" >
         <img src="./images/docker1.png" width="48" height="48" alt="Docker" />
       </a>
       <br>Docker
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
+      <a href="https://www.opensource-automation.com/about-me" >
         <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
       </a>
       <br>Kubernetes
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="https://www.opensource-automation.com/about-me">
         <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_128.svg" width="48" height="48" alt="Powershell" />
       </a>
       <br>Powershell
     </td>
     <td align="center"  width="96">
-      <a href="#macropower-tech">
+      <a href="https://www.opensource-automation.com/about-me">
         <img src="./images/mysql.svg" width="48" height="48" alt="MySQL" />
       </a>
       <br>MySQL
     </td>
         <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="https://www.opensource-automation.com/about-me">
         <img src="./images/cSharp.svg" width="48" height="48" alt="C#" />
       </a>
       <br>C#&nbsp;(Core)
     </td>]
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="https://www.opensource-automation.com/about-me">
         <img src="./images/selenium-logo.png" width="48" height="48" alt="Selenium" />
       </a>
       <br>Selenium
     </td>
        <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="https://www.opensource-automation.com/about-me">
         <img src="./images/oracle.png" width="48" height="48" alt="Oracle" />
       </a>
       <br>Oracle
