@@ -13,6 +13,7 @@
  <a href="https://www.linkedin.com/in/afsar-ali-3465a556/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">	
   </a>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fafsarali2731212%2Fhit-counter">
 </div>
 </p>
 
@@ -21,6 +22,7 @@
 
 ![Afsar's GitHub stats](https://github-readme-stats.vercel.app/api?username=afsarali273&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afsarali273&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
