@@ -1,18 +1,11 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=afsarali273&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afsarali273&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 ### Hi there 👋
 
 
 ## I am Afsar, Passionate Software QA and Developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=afsarali273&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afsarali273&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
@@ -50,96 +43,3 @@
 </p>
 <hr>
 
-<h2 align="left" id="macropower-tech">Favorite Tech</h2>
-
-> Tools, languages, and other things that I like to work with.
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="https://www.opensource-automation.com/about-me">
-        <img src="./images/python-original.svg" width="48" height="48" alt="Python" />
-      </a>
-      <br>Python
-    </td>
-          <td align="center" width="96">
-      <a href="https://www.opensource-automation.com/about-me">
-        <img src="./images/selenium-logo.png" width="48" height="48" alt="Selenium" />
-      </a>
-      <br>Selenium
-    </td>
-        <td align="center" width="96">
-      <a href="https://www.opensource-automation.com/about-me">
-        <img src="./images/java-original.svg" width="48" height="48" alt="Java" />
-      </a>
-      <br>Java
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.opensource-automation.com/about-me">
-        <img src="./images/typescript.png" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.opensource-automation.com/about-me">
-        <img src="./images/javascript.svg" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.opensource-automation.com/about-me" >
-        <img src="./images/react-original.svg" width="48" height="48" alt="React" />
-      </a>
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.opensource-automation.com/about-me">
-        <img src="./images/bootstrap.png" width="48" height="48" alt="Bootstrap" />
-      </a>
-      <br>Bootstrap
-    </td>
-  <tr>
-    <td align="center" width="96"> 
-      <a href="https://www.opensource-automation.com/about-me" >
-        <img src="./images/docker1.png" width="48" height="48" alt="Docker" />
-      </a>
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.opensource-automation.com/about-me" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
-      </a>
-      <br>Kubernetes
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.opensource-automation.com/about-me">
-        <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_128.svg" width="48" height="48" alt="Powershell" />
-      </a>
-      <br>Powershell
-    </td>
-    <td align="center"  width="96">
-      <a href="https://www.opensource-automation.com/about-me">
-        <img src="./images/mysql.svg" width="48" height="48" alt="MySQL" />
-      </a>
-      <br>MySQL
-    </td>
-        <td align="center" width="96">
-      <a href="https://www.opensource-automation.com/about-me">
-        <img src="./images/cSharp.svg" width="48" height="48" alt="C#" />
-      </a>
-      <br>C#&nbsp;(Core)
-    </td>]
-    <td align="center" width="96">
-      <a href="https://www.opensource-automation.com/about-me">
-        <img src="./images/selenium-logo.png" width="48" height="48" alt="Selenium" />
-      </a>
-      <br>Selenium
-    </td>
-       <td align="center" width="96">
-      <a href="https://www.opensource-automation.com/about-me">
-        <img src="./images/oracle.png" width="48" height="48" alt="Oracle" />
-      </a>
-      <br>Oracle
-    </td>
-  </tr>
-</table>
