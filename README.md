@@ -1,9 +1,25 @@
-### Hi there 👋
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Afsar.;I+love+open-source.;I+love+learning.;I+love+spreading+knowledge.;&center=true&width=500&height=50"></a>
+</p>
 
-## <h3>I am Afsar, Passionate Software QA and Developer.</h3>
+<p>
+<div align="center" target="_blank">
+  <img src="https://img.shields.io/twitter/follow/afsarali273?style=social">
+  <img src="https://img.shields.io/github/followers/afsarali273?style=social">
+  <a href="https://www.youtube.com/channel/UCsXoni6lTrrbO5tbF0AU3yg" target="_blank">
+    <img src="https://img.shields.io/youtube/channel/subscribers/UCsXoni6lTrrbO5tbF0AU3yg?style=social">	
+  </a>
+ <a href="https://www.linkedin.com/in/afsar-ali-3465a556/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">	
+  </a>
+</div>
+</p>
+
 <br>
 
+https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=afsarali273&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afsarali273&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
