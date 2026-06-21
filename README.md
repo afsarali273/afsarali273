@@ -28,11 +28,11 @@
 
 # <h2>My Youtube videos </h2>
 <!-- BLOG-POST-LIST:START -->
+- [Playwright MCP vs Playwright CLI vs Skills | Future of Agentic QA Automation](https://www.youtube.com/watch?v=5ZZK70PWaaM)
 - [TestFlowPro | Codeless  AI Automation Tool -Part 3](https://www.youtube.com/watch?v=OHTVk28nTaE)
 - [TestFlow Pro|API Automation Tool |Part 2](https://www.youtube.com/watch?v=wWXK-iqgtTE)
 - [New Codeless API Automation Tool](https://www.youtube.com/watch?v=Jw-B24hmNhQ)
 - [Bypass UI login using Selenium | Java](https://www.youtube.com/watch?v=8pTTx9HRAog)
-- [Webdriverio V7-Cucumber-Part-6 &lpar;AWS Codebuild,S3  Report,Docker,Selenium Grid&rpar;](https://www.youtube.com/watch?v=a6WFZGo11lA)
 <!-- BLOG-POST-LIST:END -->
 
 
